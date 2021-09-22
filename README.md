@@ -21,6 +21,6 @@ Usage of Google Books API to create an Graql API with Apollo Server. MERN stack 
 
 # Snapshot
 
-[![Book Search](images/BookSearchDemo.png)]
+![Book Search](images/BookSearchDemo.png)
 
 
